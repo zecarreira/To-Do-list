@@ -1,7 +1,7 @@
-todo_list = []
-
 import pickle
 
+
+todo_list = []
 filename = "todo_list.txt"
 
 try:
